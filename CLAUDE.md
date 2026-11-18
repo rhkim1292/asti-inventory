@@ -5,6 +5,7 @@ Inventory of shop storage bins, built from photos of each bin.
 ## How this project works
 - The user sends a photo of a bin plus its label (bin letter + number, e.g. "A1").
 - Identify the contents and add rows to `inventory.csv`.
+- Save the bin's photo to `bin-image/` named after the bin label, e.g. `bin-image/A1.jpeg`. If a bin is re-photographed, overwrite its image.
 - Photos are often sent from the Claude mobile app; edits also happen here in Claude Code. Always `git pull` before editing and commit + push after each bin so both sides stay in sync.
 
 ## inventory.csv format
