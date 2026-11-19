@@ -19,6 +19,7 @@ Columns: `Bin Letter,Bin Number,Item,Category,Qty,Notes`
 - **Qty**: exact if countable; prefix `~` for estimates.
 - **Notes**: sizes, brand, condition (e.g. rusty), or "Unidentified" when unsure.
 - Keep rows grouped by bin, in bin order.
+- Write the file with a real CSV library (e.g. Python's `csv` module), never by hand. Any field containing a comma or a `"` (like the inch mark in `1/4"`) must be wrapped in quotes with inner quotes doubled — otherwise GitHub can't render the file as a table.
 - If a bin is re-photographed, replace that bin's rows rather than appending duplicates.
 
 ## Conventions
