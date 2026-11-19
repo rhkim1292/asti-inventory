@@ -473,3 +473,10 @@ E,12,Loose hinge pin,Hardware,1,Top center; long brass pin
 E,15,"Leviton duplex outlets, ivory (15A, 125V)",Electrical,~8,Several face up and several face down; some with 5320-ICP labels on the back
 E,15,"Leviton duplex outlets, white (15A, 125V)",Electrical,~4,Some face up; some face down with 5320-WCP labels on the back
 E,15,"Leviton toggle switches, ivory (15A, 120V)",Electrical,~7,Single-pole; some face down with brass terminal screws visible; sizes/pole count not confirmed
+E,16,"Liquid-tight straight connectors, gray nonmetallic",Electrical,~9,Some marked FNMC-B; two have a yellow seal ring; trade sizes not confirmed
+E,16,"Liquid-tight 90-degree connectors, gray nonmetallic",Electrical,~4,Trade sizes not confirmed
+E,16,"Barbed hose-style fitting, gray",Electrical,1,Small; top right; purpose unconfirmed
+E,16,"Loose connector cap nut, gray",Electrical,1,Center left; detached nut only
+E,16,Metal EMT compression connector (blue band),Electrical,1,Right side; steel with blue band; size not confirmed
+E,16,"Locknuts, steel",Electrical,~2,Top left; loose
+E,16,Southwire liquid-tight flexible conduit with metal connectors,Electrical,1,"Gray; about 18"" long; metal straight connectors on both ends; trade size not confirmed"
