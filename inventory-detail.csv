@@ -544,3 +544,7 @@ F,12,White slotted cap,Electrical,1,Top center; white round cap with slot
 F,13,"EMT set-screw couplings, steel/zinc",Electrical,~24,Straight couplings with 1-2 set screws; some marked Halex; trade sizes not confirmed
 F,13,"EMT compression couplings, die-cast zinc",Electrical,~8,Larger compression-style couplings with nuts; some with a dark or yellow finish; trade sizes not confirmed
 F,13,Threaded EMT connector with locknut,Electrical,1,Right side; zinc; threaded end with locknut
+F,14,"EMT compression connectors, die-cast zinc",Electrical,~25,Threaded-end connectors with compression nut; mostly zinc/gray; trade sizes not confirmed
+F,14,"EMT compression connectors, black/dark",Electrical,~5,Black or dark painted finish; right side
+F,14,"Die-cast conduit connectors, hex-body",Electrical,~8,Hex body with threaded stub; zinc/gray; some partly corroded
+F,14,"Conduit fitting, white-coated",Electrical,1,Bottom center; white body with threaded end; purpose unconfirmed
