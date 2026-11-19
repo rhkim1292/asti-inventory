@@ -26,6 +26,7 @@ Columns: `Bin Letter,Bin Number,Item,Category,Qty,Notes`
 ## Rules for both files
 - **Bin Letter / Bin Number**: split the label, e.g. A1 → `A`, `1`.
 - Keep rows grouped by bin, in bin order.
+- Empty bins: add a summary row with Contents `Empty` and no rows in the detail file.
 - If a bin is re-photographed, replace that bin's rows rather than appending duplicates.
 - Write the files with a real CSV library (e.g. Python's `csv` module), never by hand. Any field containing a comma or a `"` (like the inch mark in `1/4"`) must be wrapped in quotes with inner quotes doubled — otherwise GitHub can't render the file as a table.
 
