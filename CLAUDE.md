@@ -19,7 +19,7 @@ Long format — do NOT make one column per item.
 Columns: `Bin Letter,Bin Number,Item,Category,Qty,Notes`
 
 - **Item**: specific, searchable name (include sizes/brands when visible).
-- **Category**: reuse existing categories where possible: Driver Bits, Nut Drivers, Bit Holders & Adapters, Drill Bits, Hand Tools, Sockets, Knives, Blades, Router Bits, Router Accessories, Taps & Dies, Fasteners, Rotary Tool Accessories, Plastic Caps, Hose Clamps, Hardware, Accessories, Misc. Add new ones only when nothing fits.
+- **Category**: reuse existing categories where possible: Driver Bits, Nut Drivers, Bit Holders & Adapters, Drill Bits, Hand Tools, Sockets, Knives, Blades, Router Bits, Router Accessories, Taps & Dies, Fasteners, Rotary Tool Accessories, Plastic Caps, Hose Clamps, Hardware, Abrasives, Accessories, Misc. Add new ones only when nothing fits.
 - **Qty**: exact if countable; prefix `~` for estimates.
 - **Notes**: sizes, brand, condition (e.g. rusty), or "Unidentified" when unsure.
 
