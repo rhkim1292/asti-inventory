@@ -504,3 +504,7 @@ F,4,Galvanized nails,Fasteners,2,"Middle right compartment; about 2-1/2"" long"
 F,4,Black drywall screws,Fasteners,4,"Bottom left compartment; about 2-1/2"" to 3"" long; bugle head"
 F,4,Black steel finish nails,Fasteners,~150,"Bottom middle compartment; about 2"" long"
 F,4,"Black steel finish nails, small",Fasteners,~400,"Bottom right compartment; about 1-1/2"" to 2"" long; a few rusty"
+F,5,"Hollow wall anchors (Molly-style), zinc",Hardware,~8,"Metal expansion anchors with screws; two sizes (about 3 small, about 5 larger); trade sizes not confirmed"
+F,5,"Hollow wall anchor, black",Hardware,1,Dark/black finish; left edge; likely a Molly-style anchor
+F,5,Snap-toggle style anchors (nylon strap with metal toggle and bolt),Hardware,2,White nylon channel with metal toggle bar and machine screw; sizes not confirmed
+F,5,Machine screw with hex nut,Fasteners,1,"Zinc; about 2"" long; center"
