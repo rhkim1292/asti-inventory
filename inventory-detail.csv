@@ -275,3 +275,15 @@ C,5,"Self-drilling hex head screws (zinc, short-medium)",Fasteners,~450,Top comp
 C,5,"Self-drilling hex head screws (zinc, long)",Fasteners,~150,Bottom-left compartment; includes some with black EPDM sealing washers; a few rusty
 C,5,"Self-drilling hex head screws (zinc, long)",Fasteners,~250,"Bottom-right compartment; mostly 1.5-2.5"" long; some rusty"
 C,5,Gold-colored screw,Fasteners,1,"Bottom-left; stray, loose"
+C,6,Zinc wafer-head self-drilling screws (short),Fasteners,~250,Top-left compartment; Phillips
+C,6,Black wafer-head self-drilling screws (short),Fasteners,~400,Top-right compartment; some with white tips or paint
+C,6,Zinc wafer-head self-drilling screws (medium),Fasteners,~300,Second row left
+C,6,"Black wafer-head screws (small, mixed)",Fasteners,~250,Second row middle; includes a few long zinc ones
+C,6,Black screws (bagged),Fasteners,~200,Clear zip bag; second row middle
+C,6,Zinc wafer-head self-drilling screws (long),Fasteners,~20,"Second row right; 1.5-2.5"" long; one gold-colored screw"
+C,6,Black wafer-head self-drilling screws (medium),Fasteners,~450,Third row left
+C,6,"Black wafer-head self-drilling screws (medium, right)",Fasteners,~450,Third row right; partly under a bag
+C,6,"Black screws (bagged, third row)",Fasteners,~100,Clear zip bag over the middle of the third row
+C,6,"Black wafer-head screws (short), bottom-left",Fasteners,~150,Bottom-left compartment; includes a loose bag with a few small black screws
+C,6,"Black wafer-head screws (short), bottom-middle",Fasteners,~200,Some with fuzzy/coated finish
+C,6,"Black pan head screws (small, fuzzy-coated), bottom-right",Fasteners,~400,"Small, dark coating looks fuzzy or worn"
