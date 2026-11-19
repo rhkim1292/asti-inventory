@@ -541,3 +541,6 @@ F,12,"Conduit locknuts, steel (serrated rim)",Electrical,~25,Zinc/gray; trade si
 F,12,"Hex conduit locknuts / nipple nuts, large",Electrical,~4,Larger hex style; one rusty
 F,12,Conduit fitting with set screw (white coated),Electrical,1,Bottom center; threaded end with white body and side screw; likely a set-screw connector
 F,12,White slotted cap,Electrical,1,Top center; white round cap with slot
+F,13,"EMT set-screw couplings, steel/zinc",Electrical,~24,Straight couplings with 1-2 set screws; some marked Halex; trade sizes not confirmed
+F,13,"EMT compression couplings, die-cast zinc",Electrical,~8,Larger compression-style couplings with nuts; some with a dark or yellow finish; trade sizes not confirmed
+F,13,Threaded EMT connector with locknut,Electrical,1,Right side; zinc; threaded end with locknut
