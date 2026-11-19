@@ -536,3 +536,8 @@ F,11,"Hex nuts, large, zinc/gray",Fasteners,~10,Sizes not confirmed
 F,11,"Nylon lock nuts, zinc (AHF marked)",Fasteners,~35,Some stamped AHF; sizes not confirmed
 F,11,"Flat washers, zinc",Fasteners,2,Bottom center and center
 F,11,Bolt with nut and washers,Fasteners,1,Left center; assembled set
+F,12,"Conduit insulating bushings, threaded (plastic and metal)",Electrical,~50,Mix of white/gray plastic and metal-ringed bushings; trade sizes not confirmed; some dirty or corroded
+F,12,"Conduit locknuts, steel (serrated rim)",Electrical,~25,Zinc/gray; trade sizes not confirmed
+F,12,"Hex conduit locknuts / nipple nuts, large",Electrical,~4,Larger hex style; one rusty
+F,12,Conduit fitting with set screw (white coated),Electrical,1,Bottom center; threaded end with white body and side screw; likely a set-screw connector
+F,12,White slotted cap,Electrical,1,Top center; white round cap with slot
