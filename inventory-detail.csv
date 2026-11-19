@@ -508,3 +508,6 @@ F,5,"Hollow wall anchors (Molly-style), zinc",Hardware,~8,"Metal expansion ancho
 F,5,"Hollow wall anchor, black",Hardware,1,Dark/black finish; left edge; likely a Molly-style anchor
 F,5,Snap-toggle style anchors (nylon strap with metal toggle and bolt),Hardware,2,White nylon channel with metal toggle bar and machine screw; sizes not confirmed
 F,5,Machine screw with hex nut,Fasteners,1,"Zinc; about 2"" long; center"
+F,6,"Spring toggle bolts, zinc",Hardware,~30,"Top compartment; spring-wing toggles with machine screws about 2-4"" long; sizes not confirmed"
+F,6,"Spring toggle bolts, zinc and yellow zinc",Hardware,~35,Bottom compartment; spring-wing toggles with machine screws; some yellow zinc or rusty; a few channel-style toggles; sizes not confirmed
+F,6,Loose machine screws,Fasteners,~15,"Both compartments; zinc, some black; about 2-4"" long; round/pan heads"
