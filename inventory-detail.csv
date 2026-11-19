@@ -511,3 +511,10 @@ F,5,Machine screw with hex nut,Fasteners,1,"Zinc; about 2"" long; center"
 F,6,"Spring toggle bolts, zinc",Hardware,~30,"Top compartment; spring-wing toggles with machine screws about 2-4"" long; sizes not confirmed"
 F,6,"Spring toggle bolts, zinc and yellow zinc",Hardware,~35,Bottom compartment; spring-wing toggles with machine screws; some yellow zinc or rusty; a few channel-style toggles; sizes not confirmed
 F,6,Loose machine screws,Fasteners,~15,"Both compartments; zinc, some black; about 2-4"" long; round/pan heads"
+F,7,"Hex head bolts, long, zinc/galvanized",Fasteners,~25,"About 4"" to 7"" long; partial thread and full thread; sizes not confirmed"
+F,7,"Hex head bolts, short, zinc",Fasteners,~25,"Bottom area; about 1"" to 2"" long; some rusty"
+F,7,"Machine screws, long",Fasteners,~10,"Round and pan head; about 3"" to 5"" long"
+F,7,Nylon lock nuts,Fasteners,~15,Zinc and brass-colored; sizes not confirmed
+F,7,Hex nuts,Fasteners,~8,Zinc and black; sizes not confirmed
+F,7,Flange bolts and washer-head bolts,Fasteners,~6,Mixed; some with washers or flanges attached
+F,7,Wing nut,Fasteners,1,"Bottom center, zinc"
