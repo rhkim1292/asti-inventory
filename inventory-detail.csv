@@ -97,3 +97,9 @@ A,11,"Hex-hole flat wrenches (long, bent handle)",Hand Tools,2,Offset handle; he
 A,11,Star-shaped multi-size wrench,Hand Tools,1,"Size numbers stamped on arms (e.g. 8, 9, 10, 12, 14)"
 A,11,Tube / spark plug style socket wrench,Hand Tools,1,Long tubular chrome; with a bar
 A,11,Bagged multi-tool wrenches,Hand Tools,1,Clear bag; gold wrenches with a wire brush
+A,12,"Small flat washers (zinc), top-left compartment",Fasteners,~600,Stacked; small to medium OD
+A,12,"Medium flat washers (zinc), top-right compartment",Fasteners,~350,Stacked and loose
+A,12,"Small and medium flat washers, mixed (middle-left compartment)",Fasteners,~500,Mixed sizes; includes a few dark/brass ones
+A,12,Large fender washers (middle-right compartment),Fasteners,~120,"Large OD with small holes; some black, red-painted and gold"
+A,12,Mixed large washers and misc. (bottom-left compartment),Fasteners,~150,"Assorted sizes; zinc, black and dark steel"
+A,12,"Mixed large washers, discs and misc. (bottom-right compartment)",Fasteners,~100,"Includes blade/arbor-style flanges, a hex nut and a lock washer"
