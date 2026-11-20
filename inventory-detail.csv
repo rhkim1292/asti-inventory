@@ -610,3 +610,7 @@ G,10,"Screw-in cable connectors with clamp (armored cable style), zinc",Electric
 G,10,"Loose locknuts, zinc",Electrical,~3,Serrated-rim locknuts; sizes not confirmed
 G,10,Bagged round cover plates / blank covers and grounding screws,Electrical,~3 bags,"Zip bags; contain flat round covers, small mounting tabs and green ground screws; counts not visible"
 G,10,"Hex nut / locknut, zinc, large",Electrical,1,"Top center, partly under a bag"
+G,11,"Squeeze-type cable connectors (NM/romex style), zinc (Halex)",Electrical,~75,Two-screw clamp type; many marked Halex with a size letter; most with locknut attached; trade sizes not confirmed
+G,11,"Large hex locknut, zinc",Electrical,1,Bottom left; large
+G,11,Gray plastic ring/locknut,Electrical,1,Upper right; gray plastic; purpose not confirmed
+G,11,"Cable connectors, loose, bottom left",Electrical,~4,Several have wire residue or are partially assembled; sizes not confirmed
