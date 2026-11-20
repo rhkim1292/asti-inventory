@@ -601,3 +601,7 @@ G,7,"One-hole EMT straps, zinc",Electrical,~90,Top right compartment; stamped zi
 G,7,"Two-hole EMT straps, zinc, some with black liner",Electrical,~30,Bottom compartment; some marked Halex and 1/2 EMT; a few with black rubber liners; one rusty; sizes not confirmed
 G,8,"Two-hole EMT straps, zinc (1/2"" EMT, Halex)",Electrical,~70,"Stamped zinc; several marked 1/2"" EMT / Halex; some with black liner visible; most about 1/2"" size"
 G,8,"Two-hole EMT straps, larger, zinc/galvanized",Electrical,~8,"Top right and bottom right; larger diameter, likely 3/4"" or 1""; some dull or rusty; size not confirmed"
+G,9,Black heat shrink tubing assortment kits (compartment cases),Electrical,2,Two clear 8-compartment cases with lids open; black tubing in sizes from about 2mm to 13mm; marked 125C; WTT TUBE and ReSuoG TUBE branding (partly readable)
+G,9,"Heat shrink tubing, small diameter (2-3mm)",Electrical,~50,"Top-left compartments of each case; about 4-6"" lengths; counts approximate"
+G,9,"Heat shrink tubing, medium diameter (5-8mm)",Electrical,~60,Middle and bottom compartments of each case; counts approximate
+G,9,"Heat shrink tubing, large diameter (10-13mm)",Electrical,~16,Top-right compartments of each case; marked 10 and 13; includes flattened pieces
