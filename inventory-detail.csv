@@ -707,3 +707,6 @@ H,13,Wood-handled carving/knife tool,Knives,1,Light wood handle; small steel bla
 H,13,Flat steel scraper/chisel blade (polished),Blades,1,"Top; thin; polished steel; about 5"" long"
 H,13,Rusty steel blades/plates,Blades,~3,"Right side; heavily rusted; flat; about 5""-8"" long"
 H,13,Gray steel blade piece,Blades,1,Right of the blade; small gray flat piece; type not confirmed
+H,14,"Power cord with 3-prong plug, black",Electrical,1,About 3-4 ft; molded 3-prong plug on one end; other end cut/bare (not visible); gauge not confirmed
+H,14,"Replacement 3-prong plugs (grounded, black)",Electrical,~4,Screw-terminal type; NEMA 5-15 style; loose
+H,14,Gray rubber 3-prong plug,Electrical,1,Bottom right; gray ribbed rubber body; heavy-duty type
