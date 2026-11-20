@@ -625,3 +625,10 @@ G,14,"Everbilt zinc toggle bolts, 1/4"" x 4"" (pack)",Hardware,1 pack,Item 113 7
 G,14,"Spring toggle bolt wings (channel type), zinc, loose",Hardware,~25,"Folding-wing toggles, many without screws; sizes about 1/8""-1/4""; some marked 1/4"
 G,14,"Spring toggle bolts with machine screw, loose",Hardware,~3,"Long bolts with washer/nut; left side; about 4-5"" long"
 G,14,"Hex bolt with washers, zinc",Fasteners,1,"Top left; long hex bolt with nuts and washers; about 5"" long"
+G,15,"EMT compression connectors / couplings, die-cast zinc, large",Electrical,~6,Larger trade size; hex nuts; some marked; trade sizes not confirmed
+G,15,"Conduit body (LL/LB style, outlet body), galvanized",Electrical,1,Top right; painted/dirty galvanized; cover missing; trade size not confirmed
+G,15,"Threaded reducing bushings, zinc",Electrical,2,Top left; reduces threaded opening size; sizes not confirmed
+G,15,"EMT or flex conduit connector, zinc",Electrical,~3,Smaller zinc connectors; one marked AMC; sizes not confirmed
+G,15,"Large hex locknut/bushing, gray",Electrical,2,"Center; heavy hex nuts, different sizes; sizes not confirmed"
+G,15,"Locknut, steel (serrated rim)",Electrical,1,Bottom center
+G,15,"Small insulated bushing / nut, steel",Electrical,2,Center left; small; purpose not confirmed
