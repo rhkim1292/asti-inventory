@@ -643,3 +643,7 @@ G,17,"Siemens Q120 circuit breaker, 1-pole 20A",Electrical,1,"Right side; 120/24
 G,17,"GE breakers, large body, screw-type",Electrical,2,Bottom left; rating not readable; used
 G,17,"Large-body breakers with blue tag (Zinsco/Sylvania style, unconfirmed)",Electrical,2,Bottom right; one has a blue tag; brand and rating not readable; type is a guess
 H,1,"Wedge anchors (expansion bolts), galvanized, red-banded",Hardware,~15,"Concrete wedge-type anchors with nut, some with flat washer; red bands on the shank; stamping partly readable and may be Hilti (unconfirmed); about 4"" long and about 1/2"" diameter (estimated); one has a rusty nut"
+H,2,"Wedge anchors (expansion bolts), zinc/steel, with nuts",Hardware,~9,"Concrete wedge-type anchors; one marked HAD; about 3""-4"" long; diameter not confirmed (likely 1/4"" to 3/8"")"
+H,2,"Large flat washers, zinc, stacked",Fasteners,~10,Bottom center; stacked on a threaded rod; sizes not confirmed
+H,2,White plastic wall anchors (ribbed),Hardware,~5,"Ribbed nylon plugs; about 1-1/2"" long; sizes not confirmed"
+H,2,"Small hollow wall anchor, steel with orange tip",Hardware,1,Top left; metal expansion type; size not confirmed
