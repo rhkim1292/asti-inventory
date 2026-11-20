@@ -617,3 +617,6 @@ G,11,"Cable connectors, loose, bottom left",Electrical,~4,Several have wire resi
 G,12,"Flexible conduit (FMC/greenfield) screw-in connectors, die-cast zinc, 1/2""",Electrical,~70,"Straight connectors; several marked NEER and 1/2; most with locknut or hex ring; sizes mostly 1/2"" (some not readable)"
 G,12,Flexible conduit connectors with 45/90-degree bend,Electrical,~3,Angled body; bottom left; sizes not confirmed
 G,12,"Flexible conduit connectors, larger body",Electrical,~4,Larger or squeeze-type body; center; trade size not confirmed
+G,13,"Zinc flat head Phillips machine screws, long (loose)",Fasteners,~80,"Bottom of tray; about 1-1/2"" to 4"" long; thin gauge (about #6 or #8); sizes not confirmed"
+G,13,"Zinc flat head Phillips machine screws, assorted (small hinged organizer)",Fasteners,~220,"Top right; 6-compartment case; sorted by length from about 1"" to 2-1/2""; counts approximate"
+G,13,"Slotted flat head machine screws, zinc and white-coated (12-compartment organizer)",Fasteners,~40,"Top left; mostly empty; about 1"" to 1-1/2"" long; some white-coated; scattered across compartments"
