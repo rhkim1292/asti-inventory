@@ -614,3 +614,6 @@ G,11,"Squeeze-type cable connectors (NM/romex style), zinc (Halex)",Electrical,~
 G,11,"Large hex locknut, zinc",Electrical,1,Bottom left; large
 G,11,Gray plastic ring/locknut,Electrical,1,Upper right; gray plastic; purpose not confirmed
 G,11,"Cable connectors, loose, bottom left",Electrical,~4,Several have wire residue or are partially assembled; sizes not confirmed
+G,12,"Flexible conduit (FMC/greenfield) screw-in connectors, die-cast zinc, 1/2""",Electrical,~70,"Straight connectors; several marked NEER and 1/2; most with locknut or hex ring; sizes mostly 1/2"" (some not readable)"
+G,12,Flexible conduit connectors with 45/90-degree bend,Electrical,~3,Angled body; bottom left; sizes not confirmed
+G,12,"Flexible conduit connectors, larger body",Electrical,~4,Larger or squeeze-type body; center; trade size not confirmed
