@@ -548,3 +548,6 @@ F,14,"EMT compression connectors, die-cast zinc",Electrical,~25,Threaded-end con
 F,14,"EMT compression connectors, black/dark",Electrical,~5,Black or dark painted finish; right side
 F,14,"Die-cast conduit connectors, hex-body",Electrical,~8,Hex body with threaded stub; zinc/gray; some partly corroded
 F,14,"Conduit fitting, white-coated",Electrical,1,Bottom center; white body with threaded end; purpose unconfirmed
+F,15,"Galvanized steel conduit, cut lengths",Electrical,~28,"About 12-14"" long; some printed with blue lettering (partly readable, looks like Silverslick); some threaded on one end; most about 3/4""-1"" diameter; type (EMT vs rigid) not confirmed"
+F,15,"Galvanized steel conduit, long pieces (horizontal)",Electrical,3,"Top; longer than the standing pieces; about 1"" diameter"
+F,15,Rusty steel pipe piece,Electrical,1,"Center; orange rust; about 12"" long"
