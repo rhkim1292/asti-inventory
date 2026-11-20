@@ -642,3 +642,4 @@ G,17,Joined breaker groups (3-wide and 4-wide),Electrical,2,Top left; groups of 
 G,17,"Siemens Q120 circuit breaker, 1-pole 20A",Electrical,1,"Right side; 120/240V, 60Hz; used"
 G,17,"GE breakers, large body, screw-type",Electrical,2,Bottom left; rating not readable; used
 G,17,"Large-body breakers with blue tag (Zinsco/Sylvania style, unconfirmed)",Electrical,2,Bottom right; one has a blue tag; brand and rating not readable; type is a guess
+H,1,"Wedge anchors (expansion bolts), galvanized, red-banded",Hardware,~15,"Concrete wedge-type anchors with nut, some with flat washer; red bands on the shank; stamping partly readable and may be Hilti (unconfirmed); about 4"" long and about 1/2"" diameter (estimated); one has a rusty nut"
