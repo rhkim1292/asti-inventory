@@ -632,3 +632,6 @@ G,15,"EMT or flex conduit connector, zinc",Electrical,~3,Smaller zinc connectors
 G,15,"Large hex locknut/bushing, gray",Electrical,2,"Center; heavy hex nuts, different sizes; sizes not confirmed"
 G,15,"Locknut, steel (serrated rim)",Electrical,1,Bottom center
 G,15,"Small insulated bushing / nut, steel",Electrical,2,Center left; small; purpose not confirmed
+G,16,"Snap-in flexible conduit connectors (red insulated bushing), zinc",Electrical,~40,"Push-in/snap-in style with red anti-short bushing; some stamped DRY ONLY; trade size about 1/2"" but not confirmed"
+G,16,"Snap-in connectors, T-body / angled with set screw",Electrical,2,Right side; one with side set screw and green ground screw; marked DRY ONLY; sizes not confirmed
+G,16,Threaded flexible conduit connector with locknut,Electrical,~3,Right and center; steel/zinc; one chrome-finish; sizes not confirmed
