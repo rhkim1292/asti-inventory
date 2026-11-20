@@ -635,3 +635,10 @@ G,15,"Small insulated bushing / nut, steel",Electrical,2,Center left; small; pur
 G,16,"Snap-in flexible conduit connectors (red insulated bushing), zinc",Electrical,~40,"Push-in/snap-in style with red anti-short bushing; some stamped DRY ONLY; trade size about 1/2"" but not confirmed"
 G,16,"Snap-in connectors, T-body / angled with set screw",Electrical,2,Right side; one with side set screw and green ground screw; marked DRY ONLY; sizes not confirmed
 G,16,Threaded flexible conduit connector with locknut,Electrical,~3,Right and center; steel/zinc; one chrome-finish; sizes not confirmed
+G,17,"Circuit breakers, 1-pole, mixed brands (20A and others)",Electrical,~12,"Top and middle rows; plug-in style; includes Challenger, GE 20A and an ERS alarm-power breaker; several marked 20; brands/ratings of the rest not readable; used and dirty"
+G,17,"Circuit breakers, 2-pole, 20A (Eaton BR220, Square D HOM DP-4075)",Electrical,2,Top right and middle; common-trip pairs; used
+G,17,Square D HOM tandem/duplex breakers (20/15/20/20),Electrical,1,Bottom center; marked 20/15 and 20/20; used
+G,17,Joined breaker groups (3-wide and 4-wide),Electrical,2,Top left; groups of breakers tied or stacked together; ratings include 20 and 50; whether they are multi-pole units is unconfirmed
+G,17,"Siemens Q120 circuit breaker, 1-pole 20A",Electrical,1,"Right side; 120/240V, 60Hz; used"
+G,17,"GE breakers, large body, screw-type",Electrical,2,Bottom left; rating not readable; used
+G,17,"Large-body breakers with blue tag (Zinsco/Sylvania style, unconfirmed)",Electrical,2,Bottom right; one has a blue tag; brand and rating not readable; type is a guess
