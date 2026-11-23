@@ -792,3 +792,9 @@ J,5,"Insulated ring terminals, red and blue",Electrical,~8,Middle and right comp
 J,5,Yellow insulated ring terminals (12-10 AWG),Electrical,~4,"Right compartments; yellow vinyl insulation; AWG range inferred from standard color coding, not printed"
 J,5,Red insulated butt connectors,Electrical,~5,Middle and left-middle compartments; long red barrel
 J,5,Blue insulated quick-disconnect/flag terminals,Electrical,~3,Center-lower compartment; blue female spade-style; sizes not confirmed
+J,6,Galvanized hex head lag/concrete screw,Fasteners,~1,Left side of bottom compartment; size unconfirmed
+J,6,Carriage bolt,Fasteners,~1,Threadlock/dye on threads; size unconfirmed
+J,6,"Truss head machine screws, zinc",Fasteners,~4,"Mixed lengths, roughly 1""-2""; sizes unconfirmed"
+J,6,"Long slotted round head machine screw, zinc",Fasteners,~1,"Roughly 4"" long; size unconfirmed"
+J,6,Self-drilling/self-tapping hex head screws,Fasteners,~6,"Mixed lengths, some rusty; sizes unconfirmed"
+J,6,"Short hex head bolt, galvanized",Fasteners,~1,Size unconfirmed
