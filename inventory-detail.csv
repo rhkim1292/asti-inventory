@@ -763,3 +763,14 @@ I,9,Knurled brass fitting,Plumbing,1,Bottom center; small; threaded; purpose unc
 I,10,"Black plastic square tube end caps/plugs, large (about 2"" square)",Plastic Caps,~60,"Loose; stacked; some with ribbed inserts; about 1-1/2"" to 2"" square; sizes not confirmed"
 I,10,"Black plastic square tube end caps, small",Plastic Caps,~15,"Bottom right; about 1"" square"
 I,10,"Black plastic rectangular end caps, bagged (20x40mm, 4 pcs)",Plastic Caps,~3 bags (~12),Zip bags with 4 pcs each per label 20*40mm 4pcs; Made in China; French recycling label on some
+I,11,"Closed-end crimp caps (butt caps), clear/white nylon",Electrical,~500,Top left compartment; wire gauge not confirmed
+I,11,"Closed-end crimp caps (butt caps), clear/white nylon, second compartment",Electrical,~450,Top right compartment; includes a clear plastic label and loose paper strips; wire gauge not confirmed
+I,11,"Red insulated ring terminals, bagged",Electrical,~300,Middle left; large zip bag; stud sizes not confirmed (appears 18-22 AWG range)
+I,11,"Solder seal heat shrink butt connectors, red-banded, bagged",Electrical,~120,Middle right; zip bag; red ends; INTEROTE branding on label strip; Made in Korea
+I,11,"Solder seal heat shrink butt connectors, red-banded, bagged (second bag)",Electrical,~100,Bottom left; zip bag; same style; Made in Korea
+I,11,"Wire nuts (twist-on connectors), gray",Electrical,~300,Bottom right compartment; mostly gray; size not confirmed
+I,11,"Wire nuts, tan/orange",Electrical,~5,Bottom right compartment; mixed in with the gray ones
+I,11,"Wire nuts, assorted colors (blue, yellow, orange, gray)",Electrical,~12,Bottom left compartment; loose; mixed sizes
+I,11,"Wago lever-nut connectors (221 series style), 3-port",Electrical,2,Bottom left compartment; orange levers; 3-conductor
+I,11,"Red insulated ring terminals, loose",Electrical,~8,Bottom left compartment; mixed with the wire nuts
+I,11,"Small screws/self-tapping screws, loose",Fasteners,~5,Bottom left compartment; zinc; mixed in with the connectors
