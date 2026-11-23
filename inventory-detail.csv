@@ -911,3 +911,12 @@ M,4,"Black steel pipe nipple, short, wide (wrapped in Orbit PVC tape)",Plumbing,
 M,4,"Black steel pipe nipple, large (wrapped in Orbit PVC tape)",Plumbing,1,"About 6"" long, large diameter (looks about 2-1/2""); threaded both ends; size unconfirmed"
 M,4,"Galvanized rigid conduit nipple, 2"" x 6""",Electrical,1,"Label reads ""2 x 6 nipple rigid"", made in USA"
 M,4,"Conduit locknuts, steel (stacked)",Electrical,~4,"Stacked on the rigid nipple; size likely matches 2"" conduit but unconfirmed"
+M,5,"Galvanized rigid conduit nipple, 2-1/2"" x 6"" (Orbit RN250-600)",Electrical,1,"Label reads RN250-600, UL listed; rusty threads"
+M,5,"Insulated conduit bushings, gray plastic-lined, 2-1/2""",Electrical,~3,"Marked 2 1/2"" and 105 C; threaded insulated throat bushings"
+M,5,"Steel conduit locknuts, 2-1/2""",Electrical,~5,"Stacked; marked 2 1/2"""
+M,5,"Large conduit locknut/ring, 2-1/2""",Electrical,1,"Center; heavy die-cast, marked 2 1/2"""
+M,5,Small insulated conduit bushings,Electrical,~3,"Bottom center; smaller sizes, ribbed edge; sizes not confirmed"
+M,5,"Conduit pipe strap, two-hole",Electrical,1,Left; galvanized strap for conduit
+M,5,"Conduit fitting, 90-degree threaded (die-cast)",Electrical,1,Right; angled fitting with threaded end; size not confirmed
+M,5,Small conduit bushing/hex nut,Electrical,1,Center; die-cast hex nut piece; size not confirmed
+M,5,"Other conduit fittings, partly visible",Electrical,Unknown,Bottom left edge; partly out of frame
