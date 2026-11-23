@@ -786,9 +786,9 @@ J,2,"Grip-Rite plastic cap nails (orange caps), ring shank",Fasteners,~500,"Full
 J,3,Black flat head self-drilling screws (Phillips),Fasteners,~500,"Bottom left compartment; black oxide; about 3/4"" to 1"" long; sizes not confirmed"
 J,3,"Black machine screws, truss/pan head (Phillips), long",Fasteners,~45,"Bottom right compartment; about 1"" to 2"" long; black oxide; sizes not confirmed (looks like #10 or 1/4"")"
 J,3,Black socket head cap screw,Fasteners,1,"Bottom right compartment; about 1"" long; mixed in with the machine screws"
-J,5,Red insulated spade/fork terminals (22-18 AWG),Electrical,~15,Spread across top-row and middle compartments; red vinyl insulation; stud sizes not confirmed
-J,5,Blue insulated spade/fork terminals (16-14 AWG),Electrical,~15,"Spread across top-row, middle and lower-left compartments; blue vinyl insulation; stud sizes not confirmed"
+J,5,Red insulated spade/fork terminals (22-18 AWG),Electrical,~15,"Spread across top-row and middle compartments; red vinyl insulation; stud sizes not confirmed; AWG range inferred from standard color coding, not printed"
+J,5,Blue insulated spade/fork terminals (16-14 AWG),Electrical,~15,"Spread across top-row, middle and lower-left compartments; blue vinyl insulation; stud sizes not confirmed; AWG range inferred from standard color coding, not printed"
 J,5,"Insulated ring terminals, red and blue",Electrical,~8,Middle and right compartments; ring tongues; stud sizes not confirmed
-J,5,Yellow insulated ring terminals (12-10 AWG),Electrical,~4,Right compartments; yellow vinyl insulation
+J,5,Yellow insulated ring terminals (12-10 AWG),Electrical,~4,"Right compartments; yellow vinyl insulation; AWG range inferred from standard color coding, not printed"
 J,5,Red insulated butt connectors,Electrical,~5,Middle and left-middle compartments; long red barrel
 J,5,Blue insulated quick-disconnect/flag terminals,Electrical,~3,Center-lower compartment; blue female spade-style; sizes not confirmed
