@@ -1,22 +1,27 @@
-"""Apply finished consolidation steps to the inventory.
+"""Record consolidation progress.
 
 Usage:
-    python consolidate.py 1-12,15      # mark steps done and move their rows
-    python consolidate.py --list        # show steps that are not done yet
+    python consolidate.py 1-12,15              # steps done: move their rows
+    python consolidate.py --skip 11 "too full"  # steps skipped (nothing moves)
+    python consolidate.py --list                # steps not done yet
+    python consolidate.py --status              # just refresh the progress section
 
-For each step in consolidation-plan.csv this moves the listed items from the
+For each done step in consolidation-plan.csv this moves the listed items from the
 From bin to the To bin in inventory-detail.csv (tagging Notes with "Moved from X"),
 sets the To bin's summary Contents when the step has a "To Becomes" value, and marks
 the step Done. A From bin left with no detail rows becomes "Empty" in inventory.csv
-and its photo in bin-image/ is deleted.
+and its photo in bin-image/ is deleted. Every run rewrites the Progress section of
+CONSOLIDATION.md.
 """
-import csv, os, re, sys
+import csv, datetime, os, re, sys
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 PLAN = os.path.join(ROOT, "consolidation-plan.csv")
 DETAIL = os.path.join(ROOT, "inventory-detail.csv")
 SUMMARY = os.path.join(ROOT, "inventory.csv")
 IMAGES = os.path.join(ROOT, "bin-image")
+DOC = os.path.join(ROOT, "CONSOLIDATION.md")
+START, END = "<!-- progress:start -->", "<!-- progress:end -->"
 
 
 def read(path):
@@ -51,21 +56,10 @@ def parse_steps(spec):
     return steps
 
 
-def main():
-    if len(sys.argv) != 2:
-        sys.exit(__doc__)
-    pcols, plan = read(PLAN)
-    if sys.argv[1] == "--list":
-        for p in plan:
-            if p["Status"] != "Done":
-                print(f'{p["Step"]:>3}  {p["From"]:>4} -> {p["To"]:<4} {p["What"][:90]}')
-        return
-
-    want = parse_steps(sys.argv[1])
+def apply_done(plan, want):
     dcols, detail = read(DETAIL)
     scols, summary = read(SUMMARY)
     touched_from, problems = set(), []
-
     for p in plan:
         if int(p["Step"]) not in want:
             continue
@@ -110,9 +104,92 @@ def main():
 
     write(DETAIL, dcols, detail)
     write(SUMMARY, scols, summary)
-    write(PLAN, pcols, plan)
     for msg in problems:
         print("WARNING:", msg)
+
+
+def apply_skip(plan, want, reason):
+    for p in plan:
+        if int(p["Step"]) in want and p["Status"] != "Done":
+            p["Status"] = "Skipped"
+            if reason:
+                p["Note"] = f'{p["Note"]}; Skipped: {reason}' if p["Note"] else f"Skipped: {reason}"
+            print(f'Step {p["Step"]} skipped')
+
+
+def refresh_progress(plan):
+    _, summary = read(SUMMARY)
+    done = [p for p in plan if p["Status"] == "Done"]
+    skipped = [p for p in plan if p["Status"] == "Skipped"]
+    todo = [p for p in plan if p["Status"] not in ("Done", "Skipped")]
+    emptied = [p["From"] for p in done if p["Empties From"] == "Yes"]
+    empty_now = sum(1 for s in summary if s["Contents"] == "Empty")
+
+    lines = [f"_Last updated {datetime.date.today().isoformat()} by consolidate.py. Do not edit this section by hand._", ""]
+    lines.append(f"- **Steps:** {len(done)} done, {len(skipped)} skipped, {len(todo)} to go (of {len(plan)})")
+    lines.append(f"- **Bins emptied by consolidation:** {len(emptied)} of "
+                 f"{sum(1 for p in plan if p['Empties From'] == 'Yes')}"
+                 + (f" ({', '.join(emptied)})" if emptied else ""))
+    lines.append(f"- **Empty bins in the shop now:** {empty_now} of {len(summary)}")
+    groups = []
+    for p in todo:
+        if p["Group"] not in groups:
+            groups.append(p["Group"])
+    if todo:
+        lines += ["", "**Still to do, by group:**", ""]
+        for g in groups:
+            steps = [p for p in todo if p["Group"] == g]
+            lines.append(f"- {g}: steps {compress([int(p['Step']) for p in steps])}")
+        lines += ["", "**Next up:**", ""]
+        for p in todo[:8]:
+            what = p["What"].replace(" | ", "; ")
+            what = what if len(what) <= 70 else what[:67] + "..."
+            fit = " (check fit)" if "check fit" in p["Note"] else ""
+            lines.append(f"- Step {p['Step']}: {p['From']} → {p['To']}: {what}{fit}")
+    else:
+        lines += ["", "**All steps are finished.**"]
+    if skipped:
+        lines += ["", "**Skipped:**", ""]
+        for p in skipped:
+            lines.append(f"- Step {p['Step']}: {p['From']} → {p['To']}. {p['Note']}")
+
+    with open(DOC, encoding="utf-8") as f:
+        doc = f.read()
+    a, b = doc.index(START) + len(START), doc.index(END)
+    doc = doc[:a] + "\n" + "\n".join(lines) + "\n" + doc[b:]
+    with open(DOC, "w", encoding="utf-8", newline="\n") as f:
+        f.write(doc)
+
+
+def compress(nums):
+    out, start = [], None
+    for i, n in enumerate(nums):
+        if start is None:
+            start = n
+        if i + 1 == len(nums) or nums[i + 1] != n + 1:
+            out.append(str(start) if start == n else f"{start}-{n}")
+            start = None
+    return ", ".join(out)
+
+
+def main():
+    args = sys.argv[1:]
+    if not args:
+        sys.exit(__doc__)
+    pcols, plan = read(PLAN)
+    if args[0] == "--list":
+        for p in plan:
+            if p["Status"] not in ("Done", "Skipped"):
+                print(f'{p["Step"]:>3}  {p["From"]:>4} -> {p["To"]:<4} {p["What"][:90]}')
+        return
+    if args[0] == "--skip":
+        if len(args) < 2:
+            sys.exit(__doc__)
+        apply_skip(plan, parse_steps(args[1]), " ".join(args[2:]))
+    elif args[0] != "--status":
+        apply_done(plan, parse_steps(args[0]))
+    write(PLAN, pcols, plan)
+    refresh_progress(plan)
 
 
 if __name__ == "__main__":

@@ -32,11 +32,7 @@ Columns: `Bin Letter,Bin Number,Item,Category,Family,Qty,Notes`
 - Write the files with a real CSV library (e.g. Python's `csv` module), never by hand. Any field containing a comma or a `"` (like the inch mark in `1/4"`) must be wrapped in quotes with inner quotes doubled — otherwise GitHub can't render the file as a table.
 
 ## Consolidation (in progress)
-- `consolidation-plan.csv` lists numbered moves (From bin → To bin, which items). The user does them in the shop and reports which steps are done (e.g. "done 1-12", or "skip 56, didn't fit").
-- Record finished steps with `python consolidate.py 1-12` (never by hand). It moves the detail rows, tags Notes with "Moved from X", sets the To bin's Contents from "To Becomes", marks emptied bins `Empty`, deletes their photos and marks the steps Done. `python consolidate.py --list` shows what's left.
-- If a step was skipped or changed, edit that row of the plan (Status `Skipped`, or a new To bin) instead of running it.
-- After the user re-photographs a bin that received items, update it the normal way (replace its rows).
-- Commit once per batch: `Consolidate steps 1-12`.
+The user is combining bins in the shop and reports progress, often from the phone ("done 1-12", "skip 11, didn't fit", "what's next?"). **Read [CONSOLIDATION.md](CONSOLIDATION.md) before handling any of these.** It has the decisions already made, the commands to record progress, and the current progress.
 
 ## Conventions
 - Flag guesses in Notes instead of inventing specifics.
