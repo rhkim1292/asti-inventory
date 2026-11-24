@@ -1,6 +1,6 @@
 Step,Group,From,To,What,Qty,Empties From,To Fill (est.),To Becomes,Note,Status
 1,Tools,A1,A5,Forstner bits (long shank),3,,40%,,Forstner bits join the other bits,Done
-2,Tools,A1,A11,"Craftsman 1/4"" ratchet | Socket (Craftsman chrome)",1 | 1,,75%,,,Done
+2,Tools,A1,A11,"Craftsman 1/4"" ratchet | Socket (Craftsman chrome)",1 | 1,,75%,,"Skipped: ratchet and socket stay in A1, they differ from the flat wrenches in A11",Skipped
 3,Tools,A1,B2,Black rubber block/pad | Bag of small metal parts,1 | 1,,10%,,"Skipped: stays in A1, it belongs with the driver bits",Skipped
 4,Tools,A5,A3,End mill / spiral router bit,1,,90%,,,
 5,Tools,A5,A11,Thin open-end tool wrenches,2,,75%,,,

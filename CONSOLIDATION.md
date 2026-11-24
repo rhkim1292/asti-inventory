@@ -35,7 +35,7 @@ Always `git pull` first, then commit and push after each update.
 <!-- progress:start -->
 _Last updated 2026-11-24 by consolidate.py. Do not edit this section by hand._
 
-- **Steps:** 2 done, 1 skipped, 74 to go (of 77)
+- **Steps:** 1 done, 2 skipped, 74 to go (of 77)
 - **Bins emptied by consolidation:** 0 of 28
 - **Empty bins in the shop now:** 37 of 223
 
@@ -59,5 +59,6 @@ _Last updated 2026-11-24 by consolidate.py. Do not edit this section by hand._
 
 **Skipped:**
 
+- Step 2: A1 → A11. Skipped: ratchet and socket stay in A1, they differ from the flat wrenches in A11
 - Step 3: A1 → B2. Skipped: stays in A1, it belongs with the driver bits
 <!-- progress:end -->
