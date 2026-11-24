@@ -35,20 +35,19 @@ Always `git pull` first, then commit and push after each update.
 <!-- progress:start -->
 _Last updated 2026-11-24 by consolidate.py. Do not edit this section by hand._
 
-- **Steps:** 3 done, 2 skipped, 72 to go (of 77)
-- **Bins emptied by consolidation:** 0 of 28
-- **Empty bins in the shop now:** 37 of 223
+- **Steps:** 4 done, 2 skipped, 71 to go (of 77)
+- **Bins emptied by consolidation:** 1 of 28 (A6)
+- **Empty bins in the shop now:** 38 of 223
 
 **Still to do, by group:**
 
-- Tools: steps 6-23
+- Tools: steps 7-23
 - Screws & nails: steps 24-41
 - Bolts, nuts & anchors: steps 42-67
 - Electrical: steps 68-77
 
 **Next up:**
 
-- Step 6: A6 → A5: Spade bits (1/4" hex shank, extended length)
 - Step 7: B2 → A1: Hex-shank socket adapter
 - Step 8: B2 → B4: Allen key (L-shaped)
 - Step 9: B2 → B5: Jigsaw blades
@@ -56,6 +55,7 @@ _Last updated 2026-11-24 by consolidate.py. Do not edit this section by hand._
 - Step 11: B3 → A9: Chicago Electric rotary saw blade kit (6 pc); Wire brushes (cup, wh... (check fit)
 - Step 12: B3 → B1: Small drill bits
 - Step 13: B4 → A1: Magnetic nut drivers (1/4" hex shank); Bit holders / bit extensions...
+- Step 14: B4 → B2: Yellow foam sponge
 
 **Skipped:**
 
