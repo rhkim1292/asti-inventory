@@ -9,9 +9,6 @@ A,1,Long quick-release bit extension (spiral shaft),Bit Holders & Adapters,Bit H
 A,1,Hex shank bit extension with red collar,Bit Holders & Adapters,Bit Holders & Adapters,1,
 A,1,Large hex bit / hex adapter,Bit Holders & Adapters,Bit Holders & Adapters,1,Oversized black hex piece
 A,1,Right-angle drill attachment,Bit Holders & Adapters,Bit Holders & Adapters,1,Black
-A,1,Forstner bits (long shank),Drill Bits,Drill Bits,3,Rusty
-A,1,"Craftsman 1/4"" ratchet",Hand Tools,Wrenches & ratchets,1,Model 41716; Made in USA
-A,1,Socket (Craftsman chrome),Sockets,Sockets,1,Size not visible
 A,1,Belt-clip bit holder,Accessories,Bit Holders & Adapters,1,Black
 A,1,Black rubber block/pad,Misc,Grommets & rubber,1,Unidentified - possibly sanding or cleaning block
 A,1,Bag of small metal parts,Misc,Misc hardware,1,Ziploc bag; contents unclear from photo
@@ -38,6 +35,7 @@ A,3,Twist drill bits,Drill Bits,Drill Bits,~2,
 A,3,Forstner bit,Drill Bits,Drill Bits,1,Bottom right of drawer
 A,3,Long black rods,Misc,Tube & bar stock,~2,Unidentified - possibly extensions or pin stock
 A,4,Pittsburgh 21 pc SAE tap & die set,Taps & Dies,Taps & Dies,2,"Harbor Freight item 61398; sizes 6-32 to 1/2""-13 NC plus 1/8""-27 NPT; cased. One case appears to hold a tap wrench marked M3-M12, so contents may be mixed"
+A,5,Forstner bits (long shank),Drill Bits,Drill Bits,3,Rusty; Moved from A1
 A,5,Countersink bits,Drill Bits,Drill Bits,~7,"Mixed: single-flute, multi-flute, zero-flute, DYC-brand; some rusty"
 A,5,Center drills,Drill Bits,Drill Bits,~4,Double-ended
 A,5,Step drill bit,Drill Bits,Drill Bits,1,
@@ -91,6 +89,8 @@ A,10,Flat washers (yellow zinc / gold chromate),Fasteners,Washers,~40,"Rainbow g
 A,10,Thick flat washers / spacers (plain steel),Fasteners,Washers,~25,"Stacked in top-left; dull gray, some with small center hole"
 A,10,Rusty flat washers,Fasteners,Washers,~3,"Stamped ""B"""
 A,10,Small thin washer,Fasteners,Washers,1,Tiny shim style
+A,11,"Craftsman 1/4"" ratchet",Hand Tools,Wrenches & ratchets,1,Model 41716; Made in USA; Moved from A1
+A,11,Socket (Craftsman chrome),Sockets,Sockets,1,Size not visible; Moved from A1
 A,11,Multi-size stamped wrenches (gold/yellow zinc),Hand Tools,Wrenches & ratchets,~6,Flat steel with several jaw sizes; appliance/bike/pipe style
 A,11,Multi-size stamped wrenches (black),Hand Tools,Wrenches & ratchets,~4,Flat steel; slotted and multi-jaw
 A,11,"Open-end wrenches (thin, silver)",Hand Tools,Wrenches & ratchets,~6,Single and double ended; assorted small sizes

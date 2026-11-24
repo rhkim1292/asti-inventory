@@ -35,25 +35,25 @@ Always `git pull` first, then commit and push after each update.
 <!-- progress:start -->
 _Last updated 2026-11-24 by consolidate.py. Do not edit this section by hand._
 
-- **Steps:** 0 done, 0 skipped, 77 to go (of 77)
+- **Steps:** 2 done, 0 skipped, 75 to go (of 77)
 - **Bins emptied by consolidation:** 0 of 28
 - **Empty bins in the shop now:** 37 of 223
 
 **Still to do, by group:**
 
-- Tools: steps 1-23
+- Tools: steps 3-23
 - Screws & nails: steps 24-41
 - Bolts, nuts & anchors: steps 42-67
 - Electrical: steps 68-77
 
 **Next up:**
 
-- Step 1: A1 → A5: Forstner bits (long shank)
-- Step 2: A1 → A11: Craftsman 1/4" ratchet; Socket (Craftsman chrome)
 - Step 3: A1 → B2: Black rubber block/pad; Bag of small metal parts
 - Step 4: A5 → A3: End mill / spiral router bit
 - Step 5: A5 → A11: Thin open-end tool wrenches
 - Step 6: A6 → A5: Spade bits (1/4" hex shank, extended length)
 - Step 7: B2 → A1: Hex-shank socket adapter
 - Step 8: B2 → B4: Allen key (L-shaped)
+- Step 9: B2 → B5: Jigsaw blades
+- Step 10: B3 → A1: Kobalt magnetic bit holder (blue)
 <!-- progress:end -->
