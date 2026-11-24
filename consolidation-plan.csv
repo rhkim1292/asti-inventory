@@ -15,8 +15,8 @@ Step,Group,From,To,What,Qty,Empties From,To Fill (est.),To Becomes,Note,Status
 14,Tools,B4,B2,Yellow foam sponge,1,,10%,,Skipped: tossed the foam sponge,Skipped
 15,Tools,B4,C4,Screw,1,,30%,,User put it in C4 instead of J3,Done
 16,Tools,B4,J11,Zip ties,2,,90%,,,Done
-17,Tools,B5,E5,Hex nut,1,,55%,,,
-18,Tools,B5,G6,Conduit strap / pipe clamp,1,,30%,,,
+17,Tools,B5,E5,Hex nut,1,,55%,,,Done
+18,Tools,B5,G6,Conduit strap / pipe clamp,1,,30%,,,Done
 19,Tools,B5,J3,Assorted screws,~30,,30%,,,
 20,Tools,B8,B7,"Pocket screwdrivers (metal, Phillips tip) | Pin punch (red handle) | Center punch / nail set (knurled) | Hollow punches (knurled, slotted end) | Knurled pin/drive punches",2 | 1 | 1 | ~2 | ~2,Yes,60%,Screwdrivers & punches,Screwdrivers & punches together,
 21,Tools,B13,G13,M4 hex nuts | M5 hex nuts | M6 hex nuts | M4x8 hex head combination screws | M4x12 hex head combination screws | M4x16 hex head combination screws | M4x20 hex head combination screws | M5x12 hex head combination screws | M5x16 hex head combination screws | M5x20 hex head combination screws | M5x25 hex head combination screws | M6x12 hex head combination screws | M6x16 hex head combination screws | M6x20 hex head combination screws | M6x25 hex head combination screws,40 | 40 | 20 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 5 | 5 | 5 | 5,Yes,60%,,Metric screw kit joins the machine screws,

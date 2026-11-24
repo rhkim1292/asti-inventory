@@ -156,8 +156,6 @@ B,5,"Reciprocating saw blades (other, rusty/worn)",Blades,Blades,~14,Mixed brand
 B,5,Oscillating multi-tool blade (round),Blades,Blades,1,Large black circular blade; rusty
 B,5,Jigsaw blades,Blades,Blades,~7,T-shank; wood and metal; includes a red blade and a 10 TPI blade
 B,5,Assorted screws,Fasteners,Assorted screws,~30,"Machine, wood and self-tapping; mixed sizes; one bag of long screws"
-B,5,Hex nut,Fasteners,Hex nuts,1,Zinc
-B,5,Conduit strap / pipe clamp,Hardware,Pipe & strap hangers,1,White painted
 B,5,"Large reciprocating saw blade (bent, wide)",Blades,Blades,1,Heavy wide blade; far right
 B,7,"Precision screwdriver set (6 pc, blue case)",Hand Tools,Screwdrivers,1,Colored handles; slotted and Phillips; in plastic case
 B,7,Precision screwdrivers (loose),Hand Tools,Screwdrivers,3,"Yellow, green/teal and green handles; one rusty"
@@ -442,6 +440,7 @@ E,3,"Flat head Phillips screws, dark stainless",Fasteners,Assorted screws,~30,Bo
 E,4,"Stainless threaded bolts, long, bagged",Fasteners,Hex bolts,~8 bags,"Zip bags; about 4-6"" long; hex head, some with nuts; sizes and per-bag counts not readable"
 E,4,"Stainless threaded rods/bolts, long, loose",Fasteners,Threaded rod & studs,~40,"Bottom right; about 6-7"" long; partly inside bags; sizes not readable"
 E,4,"Small hex nuts, stainless",Fasteners,Hex nuts,~15,Loose in a bag at lower left; sizes not readable
+E,5,Hex nut,Fasteners,Hex nuts,1,Zinc; Moved from B5
 E,5,"Flat washers, zinc",Fasteners,Washers,~120,"Middle right compartment; marked ABB; about 1"" OD; sizes not confirmed"
 E,5,"Flat washers, zinc, loose",Fasteners,Washers,2,"Middle compartment, next to the bag"
 E,5,"Hex bolts and washers, zinc, bagged",Fasteners,Hex bolts,1 bag,Middle left; bag of short hex bolts with washers; count not visible
@@ -596,6 +595,7 @@ G,5,"Wood screws, steel/black, medium to long",Fasteners,Wood screws,~20,"Flat h
 G,5,Zinc screws,Fasteners,Assorted screws,~8,"Several lengths; flat and washer head; about 1""-2"""
 G,5,Gold/yellow coated screw,Fasteners,Assorted screws,1,"Right side; about 2-1/2"" long; coarse thread"
 G,5,"Long machine screw, zinc",Fasteners,Machine screws,1,"Right-center; about 2"" long; round head"
+G,6,Conduit strap / pipe clamp,Hardware,Pipe & strap hangers,1,White painted; Moved from B5
 G,6,"Two-hole pipe straps / conduit straps, stainless",Hardware,Pipe & strap hangers,~28,"Stamped stainless; about 1"" wide strap, 2 mounting holes; some with a black rubber/foam liner; pipe sizes not confirmed"
 G,7,"Conduit hangers / pipe clamps with screw, zinc",Electrical,Conduit straps,3,Top left compartment; spring-steel clamp with machine screw; one marked Halex; sizes not confirmed
 G,7,"One-hole EMT straps, zinc",Electrical,Conduit straps,~90,Top right compartment; stamped zinc; some marked with trade size; sizes not confirmed

@@ -35,27 +35,27 @@ Always `git pull` first, then commit and push after each update.
 <!-- progress:start -->
 _Last updated 2026-11-24 by consolidate.py. Do not edit this section by hand._
 
-- **Steps:** 13 done, 3 skipped, 61 to go (of 77)
+- **Steps:** 15 done, 3 skipped, 59 to go (of 77)
 - **Bins emptied by consolidation:** 2 of 28 (A6, B3)
 - **Empty bins in the shop now:** 39 of 223
 
 **Still to do, by group:**
 
-- Tools: steps 17-23
+- Tools: steps 19-23
 - Screws & nails: steps 24-41
 - Bolts, nuts & anchors: steps 42-67
 - Electrical: steps 68-77
 
 **Next up:**
 
-- Step 17: B5 → E5: Hex nut
-- Step 18: B5 → G6: Conduit strap / pipe clamp
 - Step 19: B5 → J3: Assorted screws
 - Step 20: B8 → B7: Pocket screwdrivers (metal, Phillips tip); Pin punch (red handle); ...
 - Step 21: B13 → G13: M4 hex nuts; M5 hex nuts; M6 hex nuts; M4x8 hex head combination sc...
 - Step 22: B17 → B10: Blue painter's tape
 - Step 23: H10 → B2: Magnet pieces (broken, ceramic/ferrite style)
 - Step 24: C9 → C10: Hex washer head sheet metal screws (zinc); Flat head self-drilling ...
+- Step 25: C12 → F6: Rubber toggle-style hollow wall anchors
+- Step 26: C12 → P4: Carriage bolts (zinc/stainless)
 
 **Skipped:**
 
