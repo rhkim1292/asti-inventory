@@ -939,6 +939,7 @@ N,3,Metal mounting clips/brackets (bagged),Hardware,~25,Zinc/stainless slotted c
 N,3,"Zinc screws, loose",Fasteners,~60,Center; phillips pan head screws; sizes unconfirmed
 N,3,"Black two-conductor wire, coiled",Electrical,1,Bottom; small coil of black cable; length and gauge unconfirmed
 N,3,Black/steel screws in bag,Fasteners,~4,Top left bag; with a small cylindrical fitting
+N,3,"Stainless steel wire rope, coiled (about 6 ft)",Hardware,~2,Moved from P7; swaged ferrule ends; length and diameter unconfirmed
 N,5,Large zinc hex nuts,Fasteners,~70,"Left side; heavy hex nuts, looks about 1/2""-5/8""; thread size unconfirmed"
 N,5,"Long threaded studs/bolts with nuts, zinc",Fasteners,~6,"Right side; about 8""-10"" long, nuts on both ends; diameter unconfirmed (looks about 1/2"")"
 N,5,Rusty long hex bolts,Fasteners,~3,"Right side; heavily rusted, about 9"" long; diameter unconfirmed"
@@ -984,8 +985,3 @@ P,4,"Carriage bolts with nuts and washers, zinc",Fasteners,~10,Bottom right comp
 P,4,"Hex bolts with nut and washer, zinc",Fasteners,1,"Top right compartment; about 1-1/2"" long; size unconfirmed"
 P,4,"Large hex bolts, dark/rusty (black oxide)",Fasteners,~5,"Bottom left compartment; coarse thread, heavier than the zinc bolts; sizes unconfirmed"
 P,4,"Zinc carriage bolts, loose (bottom left)",Fasteners,~3,Bottom left compartment; with nuts; sizes unconfirmed
-P,7,"MorningRod picture/sign hanging cable kit (4 pack), emptied box on top",Hardware,1 kit,"White box labeled ""MorningRod 4 Pack ... Picture Sign Board Frame""; contents emptied out and laid on the box; kit includes stainless wire rope, aluminum grippers and screws"
-P,7,"Stainless steel wire rope, coiled (about 6 ft)",Hardware,~2,Coiled with swaged ferrule ends; length and diameter unconfirmed; may be 2 of the 4 cables from the kit
-P,7,Aluminum cable gripper/lock cylinders,Hardware,~5,Silver cylinders with set screw hole; 4 in zip bag plus 1 loose with cable; for the hanging kit
-P,7,Plastic wall anchors with stainless screws and hex key (bag),Fasteners,~4 sets,"Small zip bag; white plastic anchors, stainless screws and an L-shaped hex key"
-P,7,Brass washer/spacer,Hardware,1,Small brass ring on the cable packet
