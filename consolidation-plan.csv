@@ -5,12 +5,12 @@ Step,Group,From,To,What,Qty,Empties From,To Fill (est.),To Becomes,Note,Status
 4,Tools,A5,A3,End mill / spiral router bit,1,,90%,,,Done
 5,Tools,A5,A11,Thin open-end tool wrenches,2,,75%,,,Done
 6,Tools,A6,A5,"Spade bits (1/4"" hex shank, extended length)",~18,Yes,40%,Countersinks & spade bits,Spade bits into the compartments A5's wrenches left,Done
-7,Tools,B2,A1,Hex-shank socket adapter,1,,60%,,,
-8,Tools,B2,B4,Allen key (L-shaped),1,,75%,,,
-9,Tools,B2,B5,Jigsaw blades,2,,85%,,,
-10,Tools,B3,A1,Kobalt magnetic bit holder (blue),1,,60%,,,
-11,Tools,B3,A9,"Chicago Electric rotary saw blade kit (6 pc) | Wire brushes (cup, wheel and pencil) on 1/8"" shanks | Mounted grinding stones | Carbide burrs / rotary files (bagged) | Sanding drums and bands (bagged) | Mandrels and other shanks (loose) | Cutting wheel (abrasive)",1 | ~12 | ~8 | ~15 | ~8 | ~15 | ~2,,25%,,Rotary tool accessories into A9's empty compartments; check fit,
-12,Tools,B3,B1,Small drill bits,~6,Yes,90%,,,
+7,Tools,B2,A1,Hex-shank socket adapter,1,,60%,,,Done
+8,Tools,B2,B4,Allen key (L-shaped),1,,75%,,,Done
+9,Tools,B2,B5,Jigsaw blades,2,,85%,,,Done
+10,Tools,B3,A1,Kobalt magnetic bit holder (blue),1,,60%,,,Done
+11,Tools,B3,A9,"Chicago Electric rotary saw blade kit (6 pc) | Wire brushes (cup, wheel and pencil) on 1/8"" shanks | Mounted grinding stones | Carbide burrs / rotary files (bagged) | Sanding drums and bands (bagged) | Mandrels and other shanks (loose) | Cutting wheel (abrasive)",1 | ~12 | ~8 | ~15 | ~8 | ~15 | ~2,,25%,,Rotary tool accessories into A9's empty compartments; check fit,Done
+12,Tools,B3,B1,Small drill bits,~6,Yes,90%,,,Done
 13,Tools,B4,A1,"Magnetic nut drivers (1/4"" hex shank) | Bit holders / bit extensions | Impact socket adapter | Brass-colored hex socket driver",~4 | ~5 | 1 | 1,,60%,Driver bits & bit holders,,
 14,Tools,B4,B2,Yellow foam sponge,1,,10%,,,
 15,Tools,B4,J3,Screw,1,,30%,,,

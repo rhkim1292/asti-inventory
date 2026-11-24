@@ -15,6 +15,8 @@ A,1,Hex socket bits (bagged),Driver Bits,Driver Bits,~6,Ziploc bag; contents ide
 A,1,"Phillips bit in magnetic holder (gold-tipped, 1/4"" hex)",Driver Bits,Driver Bits,1,Moved from Q6
 A,1,"Craftsman 1/4"" ratchet",Hand Tools,Wrenches & ratchets,1,Model 41716; Made in USA
 A,1,Socket (Craftsman chrome),Sockets,Sockets,1,Size not visible
+A,1,Hex-shank socket adapter,Bit Holders & Adapters,Bit Holders & Adapters,1,Rusty; hex drive on one end; Moved from B2
+A,1,Kobalt magnetic bit holder (blue),Bit Holders & Adapters,Bit Holders & Adapters,1,"Top right; 1/4"" hex; Moved from B3"
 A,2,"Hook knives (wood handle, red blade)",Knives,Knives,2,Carpet/linoleum style hook blade
 A,2,Wood-handled knife with blue-taped blade,Knives,Knives,1,Makeshift handle wrap
 A,2,Wood-handled knife (dark blade),Knives,Knives,1,Possibly a flooring knife; partly hidden
@@ -85,6 +87,13 @@ A,9,Small wire brushes,Rotary Tool Accessories,Rotary Tool Accessories,~2,Includ
 A,9,Mandrels / shanks (bare),Rotary Tool Accessories,Rotary Tool Accessories,~6,"Thin 1/8"" style shanks"
 A,9,Small drill bits,Drill Bits,Drill Bits,~2,Black-coated; thin
 A,9,Collet wrench (small),Rotary Tool Accessories,Rotary Tool Accessories,1,Thin steel
+A,9,Chicago Electric rotary saw blade kit (6 pc),Rotary Tool Accessories,Rotary Tool Accessories,1,"Item 67224; 1/8"" shank; carded; 5 blades + mandrel; Moved from B3"
+A,9,"Wire brushes (cup, wheel and pencil) on 1/8"" shanks",Rotary Tool Accessories,Rotary Tool Accessories,~12,Steel and brass; assorted shapes; Moved from B3
+A,9,Mounted grinding stones,Rotary Tool Accessories,Rotary Tool Accessories,~8,"Pink, gray, blue; various shapes; Moved from B3"
+A,9,Carbide burrs / rotary files (bagged),Rotary Tool Accessories,Rotary Tool Accessories,~15,In clear Ziploc bags; assorted shapes; Moved from B3
+A,9,Sanding drums and bands (bagged),Rotary Tool Accessories,Rotary Tool Accessories,~8,Red-brown bands; in bag; Moved from B3
+A,9,Mandrels and other shanks (loose),Rotary Tool Accessories,Rotary Tool Accessories,~15,Includes some collet pieces; Moved from B3
+A,9,Cutting wheel (abrasive),Rotary Tool Accessories,Rotary Tool Accessories,~2,Thin discs on shanks; Moved from B3
 A,10,Flat washers (zinc plated),Fasteners,Washers,~120,"Silver finish; mixed sizes, mostly large OD; some stacked"
 A,10,Flat washers (yellow zinc / gold chromate),Fasteners,Washers,~40,"Rainbow gold finish; some stamped ""S"""
 A,10,Thick flat washers / spacers (plain steel),Fasteners,Washers,~25,"Stacked in top-left; dull gray, some with small center hole"
@@ -131,20 +140,10 @@ B,1,Small twist drill bits (loose),Drill Bits,Drill Bits,~60,Thin; mix of gold-c
 B,1,"Small twist drill bits (assorted, sorted)",Drill Bits,Drill Bits,~40,Right-center compartments
 B,1,"1/8"" black and gold split-point HSS jobber bits (pack)",Drill Bits,Drill Bits,12,"Package marked Qty 12, item #58-2008"
 B,1,Brad-point / Forstner-style bit,Drill Bits,Drill Bits,1,Found among the medium bits
+B,1,Small drill bits,Drill Bits,Drill Bits,~6,Thin; with the loose pile; Moved from B3
 B,2,Clear acrylic strips,Misc,Misc hardware,~14,Thin rectangular pieces in assorted lengths; likely offcuts
-B,2,Jigsaw blades,Blades,Blades,2,"T-shank; one marked Bosch ""scroll cut wood"" (Swiss made)"
-B,2,Allen key (L-shaped),Hand Tools,Hex keys,1,Size not visible
 B,2,Round metal hub with set screws,Misc,Misc hardware,1,Rusty; ring with ~8 bolts around the center; unidentified
-B,2,Hex-shank socket adapter,Bit Holders & Adapters,Bit Holders & Adapters,1,Rusty; hex drive on one end
-B,3,Chicago Electric rotary saw blade kit (6 pc),Rotary Tool Accessories,Rotary Tool Accessories,1,"Item 67224; 1/8"" shank; carded; 5 blades + mandrel"
-B,3,"Wire brushes (cup, wheel and pencil) on 1/8"" shanks",Rotary Tool Accessories,Rotary Tool Accessories,~12,Steel and brass; assorted shapes
-B,3,Mounted grinding stones,Rotary Tool Accessories,Rotary Tool Accessories,~8,"Pink, gray, blue; various shapes"
-B,3,Carbide burrs / rotary files (bagged),Rotary Tool Accessories,Rotary Tool Accessories,~15,In clear Ziploc bags; assorted shapes
-B,3,Sanding drums and bands (bagged),Rotary Tool Accessories,Rotary Tool Accessories,~8,Red-brown bands; in bag
-B,3,Mandrels and other shanks (loose),Rotary Tool Accessories,Rotary Tool Accessories,~15,Includes some collet pieces
-B,3,Small drill bits,Drill Bits,Drill Bits,~6,Thin; with the loose pile
-B,3,Cutting wheel (abrasive),Rotary Tool Accessories,Rotary Tool Accessories,~2,Thin discs on shanks
-B,3,Kobalt magnetic bit holder (blue),Bit Holders & Adapters,Bit Holders & Adapters,1,"Top right; 1/4"" hex"
+B,4,Allen key (L-shaped),Hand Tools,Hex keys,1,Size not visible; Moved from B2
 B,4,Allen keys / hex keys (loose),Hand Tools,Hex keys,~60,"Mixed sizes SAE and metric likely; L-shaped, mostly black oxide; many large; some rusty or red-painted"
 B,4,Allen keys on wire rings (fold-up sets),Hand Tools,Hex keys,~3,Keys held together with wire rings
 B,4,"Magnetic nut drivers (1/4"" hex shank)",Nut Drivers,Nut Drivers,~4,Rusty; top compartment
@@ -154,6 +153,7 @@ B,4,Brass-colored hex socket driver,Nut Drivers,Nut Drivers,1,"Short, 1/4"" hex 
 B,4,Zip ties,Accessories,Cable ties,2,White; top compartment
 B,4,Yellow foam sponge,Misc,Grommets & rubber,1,Bottom of bin
 B,4,Screw,Fasteners,Assorted screws,1,Single loose screw at bottom edge
+B,5,Jigsaw blades,Blades,Blades,2,"T-shank; one marked Bosch ""scroll cut wood"" (Swiss made); Moved from B2"
 B,5,Reciprocating saw blades (Warrior bi-metal),Blades,Blades,~6,"Includes 24 TPI thin metal, 6 TPI and 5-8 TPI wood w/ nails; some marked 24T USA"
 B,5,"Reciprocating saw blades (other, rusty/worn)",Blades,Blades,~14,Mixed brands; many rusty; includes a 8/14 TPI bi-metal blade and a yellow DeWalt blade
 B,5,Oscillating multi-tool blade (round),Blades,Blades,1,Large black circular blade; rusty

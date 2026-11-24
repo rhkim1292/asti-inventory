@@ -35,27 +35,27 @@ Always `git pull` first, then commit and push after each update.
 <!-- progress:start -->
 _Last updated 2026-11-24 by consolidate.py. Do not edit this section by hand._
 
-- **Steps:** 4 done, 2 skipped, 71 to go (of 77)
-- **Bins emptied by consolidation:** 1 of 28 (A6)
-- **Empty bins in the shop now:** 38 of 223
+- **Steps:** 10 done, 2 skipped, 65 to go (of 77)
+- **Bins emptied by consolidation:** 2 of 28 (A6, B3)
+- **Empty bins in the shop now:** 39 of 223
 
 **Still to do, by group:**
 
-- Tools: steps 7-23
+- Tools: steps 13-23
 - Screws & nails: steps 24-41
 - Bolts, nuts & anchors: steps 42-67
 - Electrical: steps 68-77
 
 **Next up:**
 
-- Step 7: B2 → A1: Hex-shank socket adapter
-- Step 8: B2 → B4: Allen key (L-shaped)
-- Step 9: B2 → B5: Jigsaw blades
-- Step 10: B3 → A1: Kobalt magnetic bit holder (blue)
-- Step 11: B3 → A9: Chicago Electric rotary saw blade kit (6 pc); Wire brushes (cup, wh... (check fit)
-- Step 12: B3 → B1: Small drill bits
 - Step 13: B4 → A1: Magnetic nut drivers (1/4" hex shank); Bit holders / bit extensions...
 - Step 14: B4 → B2: Yellow foam sponge
+- Step 15: B4 → J3: Screw
+- Step 16: B4 → J11: Zip ties
+- Step 17: B5 → E5: Hex nut
+- Step 18: B5 → G6: Conduit strap / pipe clamp
+- Step 19: B5 → J3: Assorted screws
+- Step 20: B8 → B7: Pocket screwdrivers (metal, Phillips tip); Pin punch (red handle); ...
 
 **Skipped:**
 
