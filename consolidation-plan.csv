@@ -3,7 +3,7 @@ Step,Group,From,To,What,Qty,Empties From,To Fill (est.),To Becomes,Note,Status
 2,Tools,A1,A11,"Craftsman 1/4"" ratchet | Socket (Craftsman chrome)",1 | 1,,75%,,"Skipped: ratchet and socket stay in A1, they differ from the flat wrenches in A11",Skipped
 3,Tools,A1,B2,Black rubber block/pad | Bag of small metal parts,1 | 1,,10%,,"Skipped: stays in A1, it belongs with the driver bits",Skipped
 4,Tools,A5,A3,End mill / spiral router bit,1,,90%,,,Done
-5,Tools,A5,A11,Thin open-end tool wrenches,2,,75%,,,
+5,Tools,A5,A11,Thin open-end tool wrenches,2,,75%,,,Done
 6,Tools,A6,A5,"Spade bits (1/4"" hex shank, extended length)",~18,Yes,40%,Countersinks & spade bits,Spade bits into the compartments A5's wrenches left,
 7,Tools,B2,A1,Hex-shank socket adapter,1,,60%,,,
 8,Tools,B2,B4,Allen key (L-shaped),1,,75%,,,
