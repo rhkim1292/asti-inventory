@@ -150,8 +150,6 @@ B,2,Clear acrylic strips,Misc,Misc hardware,~14,Thin rectangular pieces in assor
 B,4,Allen key (L-shaped),Hand Tools,Hex keys,1,Size not visible; Moved from B2
 B,4,Allen keys / hex keys (loose),Hand Tools,Hex keys,~60,"Mixed sizes SAE and metric likely; L-shaped, mostly black oxide; many large; some rusty or red-painted"
 B,4,Allen keys on wire rings (fold-up sets),Hand Tools,Hex keys,~3,Keys held together with wire rings
-B,4,Zip ties,Accessories,Cable ties,2,White; top compartment
-B,4,Screw,Fasteners,Assorted screws,1,Single loose screw at bottom edge
 B,5,Jigsaw blades,Blades,Blades,2,"T-shank; one marked Bosch ""scroll cut wood"" (Swiss made); Moved from B2"
 B,5,Reciprocating saw blades (Warrior bi-metal),Blades,Blades,~6,"Includes 24 TPI thin metal, 6 TPI and 5-8 TPI wood w/ nails; some marked 24T USA"
 B,5,"Reciprocating saw blades (other, rusty/worn)",Blades,Blades,~14,Mixed brands; many rusty; includes a 8/14 TPI bi-metal blade and a yellow DeWalt blade
@@ -260,6 +258,7 @@ C,3,"Flat washers (zinc, mixed), middle-right",Fasteners,Washers,~30,Mixed mediu
 C,3,Split lock washers (zinc),Fasteners,Washers,~250,Bottom-left compartment; assorted sizes; a few brass-colored
 C,3,Small flat washers (zinc),Fasteners,Washers,~600,"Bottom-middle compartment; small sizes, many stacked"
 C,3,"Large flat washers (galvanized, mixed rusty)",Fasteners,Washers,~120,"Bottom-right compartment; some stamped ""RBB""; some rusty"
+C,4,Screw,Fasteners,Assorted screws,1,Single loose screw at bottom edge; Moved from B4
 C,4,Black Phillips truss head self-drilling screws (long),Fasteners,Self-drilling screws,~150,Top-left compartment
 C,4,Zinc and black wafer-head self-drilling screws,Fasteners,Self-drilling screws,~100,Top-middle compartment; mixed with a few black-headed
 C,4,Black screws (bagged),Fasteners,Assorted screws,~300,Top-right compartment; in a clear bag; small
@@ -814,6 +813,7 @@ J,10,Black/dark steel angle brackets,Hardware,Brackets & plates,~4,Some rusty; s
 J,10,Brown flat mending plate,Hardware,Brackets & plates,~1,4 holes; rusty/painted
 J,10,Corner braces on card with screws,Hardware,Brackets & plates,Unknown,"Everbilt ""Corner Braces"" card, taped; clear package of screws on top; brace count not visible"
 J,10,Plastic bag of flat metal pieces,Hardware,Misc hardware,Unknown,"Zip bag with Shenzhen/Made in China label; contents look like stacked flat plates or washers, unidentified"
+J,11,Zip ties,Accessories,Cable ties,2,White; top compartment; Moved from B4
 J,11,"Natural/white nylon cable ties, 4"" (Commercial Electric)",Electrical,Cable ties,~100,"Bag with printed ""4 inch Cable Ties"" card; qty on card partly cut off (appears to be 100)"
 J,11,"Natural/white nylon cable ties, long (bag, left)",Electrical,Cable ties,~100,Large bag of long ties with Made in China label; length and count unconfirmed
 J,11,"Cable ties, assorted (other bags)",Electrical,Cable ties,Unknown,"Several more bags beneath, including black ties and what looks like a large mounting-base tie; unidentified"

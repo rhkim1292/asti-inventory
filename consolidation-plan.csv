@@ -13,8 +13,8 @@ Step,Group,From,To,What,Qty,Empties From,To Fill (est.),To Becomes,Note,Status
 12,Tools,B3,B1,Small drill bits,~6,Yes,90%,,,Done
 13,Tools,B4,A1,"Magnetic nut drivers (1/4"" hex shank) | Bit holders / bit extensions | Impact socket adapter | Brass-colored hex socket driver",~4 | ~5 | 1 | 1,,60%,Driver bits & bit holders,,Done
 14,Tools,B4,B2,Yellow foam sponge,1,,10%,,Skipped: tossed the foam sponge,Skipped
-15,Tools,B4,J3,Screw,1,,30%,,,
-16,Tools,B4,J11,Zip ties,2,,90%,,,
+15,Tools,B4,C4,Screw,1,,30%,,User put it in C4 instead of J3,Done
+16,Tools,B4,J11,Zip ties,2,,90%,,,Done
 17,Tools,B5,E5,Hex nut,1,,55%,,,
 18,Tools,B5,G6,Conduit strap / pipe clamp,1,,30%,,,
 19,Tools,B5,J3,Assorted screws,~30,,30%,,,
