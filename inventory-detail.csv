@@ -967,3 +967,6 @@ O,10,"Hex nuts, brass/yellow zinc",Fasteners,~4,Loose; sizes unconfirmed
 O,10,"Hex nuts, black/plain steel",Fasteners,~3,Loose; sizes unconfirmed
 O,10,"Zinc hex bolts and threaded screws, loose",Fasteners,~4,"Left center; about 2""-5"" long; sizes unconfirmed"
 O,10,"Small self-tapping screws, loose",Fasteners,~4,Includes black and zinc; sizes unconfirmed
+O,11,"Adhesive-backed cable clips/mounts, black (50 pcs per bag)",Electrical,~300,"About 6 zip bags with barcode labels reading ""50 PCS"" (one labeled 20 pcs); square black clips with green-grid adhesive backing; count estimated from labels"
+O,11,"Adhesive cable clips, dirty/older bag",Electrical,~40,Top right; dirty bag of the same style; count not visible
+O,11,Adhesive cable clips with 3M foam backing (small bag),Electrical,~15,Bottom left; white 3M foam adhesive pads; count estimated
