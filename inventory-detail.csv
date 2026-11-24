@@ -190,21 +190,6 @@ B,11,Ceiling hanger screws with eye tab (gold/yellow zinc),Fasteners,Ceiling han
 B,11,Brass strap clips / wire hangers,Hardware,Pipe & strap hangers,~12,Top-right compartment
 B,11,Pipe / J-hooks and hanger clamps,Hardware,Pipe & strap hangers,~3,Top-right compartment; zinc
 B,11,Perforated metal strapping (plumber tape),Hardware,Pipe & strap hangers,2,"Two coils, large and small"
-B,13,M4 hex nuts,Fasteners,Hex nuts,40,Stainless; from 200 pc organizer kit; qty per kit label
-B,13,M5 hex nuts,Fasteners,Hex nuts,40,Stainless; from 200 pc organizer kit; qty per kit label
-B,13,M6 hex nuts,Fasteners,Hex nuts,20,Stainless; from 200 pc organizer kit; qty per kit label
-B,13,M4x8 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label
-B,13,M4x12 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label
-B,13,M4x16 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label
-B,13,M4x20 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label
-B,13,M5x12 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label
-B,13,M5x16 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label
-B,13,M5x20 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label
-B,13,M5x25 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label
-B,13,M6x12 hex head combination screws,Fasteners,Machine screws,5,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label
-B,13,M6x16 hex head combination screws,Fasteners,Machine screws,5,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label
-B,13,M6x20 hex head combination screws,Fasteners,Machine screws,5,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label
-B,13,M6x25 hex head combination screws,Fasteners,Machine screws,5,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label
 B,14,"Nianba ""Nails Free Glue"" tubes (20 ml)",Adhesives,Adhesives,~11,Black/yellow tubes; Chinese-language labels; 24-month shelf life
 B,14,Stainless steel mounting brackets (individually bagged),Hardware,Brackets & plates,~25 bags,Slotted bent brackets in sealed plastic bags; exact piece count unknown; possibly wall or panel clips - unidentified
 B,15,"Hand staple gun (chrome, manual)",Hand Tools,Staple guns,1,Squeeze-handle type; some rust at the base
@@ -617,6 +602,21 @@ G,11,"Cable connectors, loose, bottom left",Electrical,Flex & cable connectors,~
 G,12,"Flexible conduit (FMC/greenfield) screw-in connectors, die-cast zinc, 1/2""",Electrical,Flex & cable connectors,~70,"Straight connectors; several marked NEER and 1/2; most with locknut or hex ring; sizes mostly 1/2"" (some not readable)"
 G,12,Flexible conduit connectors with 45/90-degree bend,Electrical,Flex & cable connectors,~3,Angled body; bottom left; sizes not confirmed
 G,12,"Flexible conduit connectors, larger body",Electrical,Flex & cable connectors,~4,Larger or squeeze-type body; center; trade size not confirmed
+G,13,M4 hex nuts,Fasteners,Hex nuts,40,Stainless; from 200 pc organizer kit; qty per kit label; Moved from B13
+G,13,M5 hex nuts,Fasteners,Hex nuts,40,Stainless; from 200 pc organizer kit; qty per kit label; Moved from B13
+G,13,M6 hex nuts,Fasteners,Hex nuts,20,Stainless; from 200 pc organizer kit; qty per kit label; Moved from B13
+G,13,M4x8 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label; Moved from B13
+G,13,M4x12 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label; Moved from B13
+G,13,M4x16 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label; Moved from B13
+G,13,M4x20 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label; Moved from B13
+G,13,M5x12 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label; Moved from B13
+G,13,M5x16 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label; Moved from B13
+G,13,M5x20 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label; Moved from B13
+G,13,M5x25 hex head combination screws,Fasteners,Machine screws,10,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label; Moved from B13
+G,13,M6x12 hex head combination screws,Fasteners,Machine screws,5,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label; Moved from B13
+G,13,M6x16 hex head combination screws,Fasteners,Machine screws,5,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label; Moved from B13
+G,13,M6x20 hex head combination screws,Fasteners,Machine screws,5,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label; Moved from B13
+G,13,M6x25 hex head combination screws,Fasteners,Machine screws,5,Hex head combo screw with spring and flat washers; stainless; 200 pc organizer kit; qty per kit label; Moved from B13
 G,13,"Zinc flat head Phillips machine screws, long (loose)",Fasteners,Machine screws,~80,"Bottom of tray; about 1-1/2"" to 4"" long; thin gauge (about #6 or #8); sizes not confirmed"
 G,13,"Zinc flat head Phillips machine screws, assorted (small hinged organizer)",Fasteners,Machine screws,~220,"Top right; 6-compartment case; sorted by length from about 1"" to 2-1/2""; counts approximate"
 G,13,"Slotted flat head machine screws, zinc and white-coated (12-compartment organizer)",Fasteners,Machine screws,~40,"Top left; mostly empty; about 1"" to 1-1/2"" long; some white-coated; scattered across compartments"

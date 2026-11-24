@@ -35,20 +35,19 @@ Always `git pull` first, then commit and push after each update.
 <!-- progress:start -->
 _Last updated 2026-11-24 by consolidate.py. Do not edit this section by hand._
 
-- **Steps:** 16 done, 4 skipped, 57 to go (of 77)
-- **Bins emptied by consolidation:** 2 of 27 (A6, B3)
-- **Empty bins in the shop now:** 39 of 223
+- **Steps:** 17 done, 4 skipped, 56 to go (of 77)
+- **Bins emptied by consolidation:** 3 of 27 (A6, B3, B13)
+- **Empty bins in the shop now:** 40 of 223
 
 **Still to do, by group:**
 
-- Tools: steps 21-23
+- Tools: steps 22-23
 - Screws & nails: steps 24-41
 - Bolts, nuts & anchors: steps 42-67
 - Electrical: steps 68-77
 
 **Next up:**
 
-- Step 21: B13 → G13: M4 hex nuts; M5 hex nuts; M6 hex nuts; M4x8 hex head combination sc...
 - Step 22: B17 → B10: Blue painter's tape
 - Step 23: H10 → B2: Magnet pieces (broken, ceramic/ferrite style)
 - Step 24: C9 → C10: Hex washer head sheet metal screws (zinc); Flat head self-drilling ...
@@ -56,6 +55,7 @@ _Last updated 2026-11-24 by consolidate.py. Do not edit this section by hand._
 - Step 26: C12 → P4: Carriage bolts (zinc/stainless)
 - Step 27: C14 → P11: Concrete/masonry screws with blue coating
 - Step 28: F1 → C10: Hex head sheet metal / self-tapping screws, zinc
+- Step 29: F1 → C14: Hex head lag screw, zinc
 
 **Skipped:**
 
