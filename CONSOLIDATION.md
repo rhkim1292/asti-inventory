@@ -35,20 +35,19 @@ Always `git pull` first, then commit and push after each update.
 <!-- progress:start -->
 _Last updated 2026-11-24 by consolidate.py. Do not edit this section by hand._
 
-- **Steps:** 17 done, 4 skipped, 56 to go (of 77)
+- **Steps:** 17 done, 5 skipped, 55 to go (of 77)
 - **Bins emptied by consolidation:** 3 of 27 (A6, B3, B13)
 - **Empty bins in the shop now:** 40 of 223
 
 **Still to do, by group:**
 
-- Tools: steps 22-23
+- Tools: steps 23
 - Screws & nails: steps 24-41
 - Bolts, nuts & anchors: steps 42-67
 - Electrical: steps 68-77
 
 **Next up:**
 
-- Step 22: B17 → B10: Blue painter's tape
 - Step 23: H10 → B2: Magnet pieces (broken, ceramic/ferrite style)
 - Step 24: C9 → C10: Hex washer head sheet metal screws (zinc); Flat head self-drilling ...
 - Step 25: C12 → F6: Rubber toggle-style hollow wall anchors
@@ -56,6 +55,7 @@ _Last updated 2026-11-24 by consolidate.py. Do not edit this section by hand._
 - Step 27: C14 → P11: Concrete/masonry screws with blue coating
 - Step 28: F1 → C10: Hex head sheet metal / self-tapping screws, zinc
 - Step 29: F1 → C14: Hex head lag screw, zinc
+- Step 30: F1 → I8: Long flat head and wood screws, zinc
 
 **Skipped:**
 
@@ -63,4 +63,5 @@ _Last updated 2026-11-24 by consolidate.py. Do not edit this section by hand._
 - Step 3: A1 → B2. Skipped: stays in A1, it belongs with the driver bits
 - Step 14: B4 → B2. Skipped: tossed the foam sponge
 - Step 19: B5 → J3. Skipped: about 30 assorted screws (machine, wood and self-tapping, one bag of long screws) left out loose to sort individually later; not in any bin yet
+- Step 22: B17 → B10. Skipped: B17 had no blue painter's tape, just a piece of tape holding two metal pieces together; row removed
 <!-- progress:end -->
