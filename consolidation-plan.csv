@@ -21,7 +21,7 @@ Step,Group,From,To,What,Qty,Empties From,To Fill (est.),To Becomes,Note,Status
 20,Tools,B8,B7,"Pocket screwdrivers (metal, Phillips tip)",2,,60%,,"User kept the punches in B8, which becomes the punch bin",Done
 21,Tools,B13,G13,M4 hex nuts | M5 hex nuts | M6 hex nuts | M4x8 hex head combination screws | M4x12 hex head combination screws | M4x16 hex head combination screws | M4x20 hex head combination screws | M5x12 hex head combination screws | M5x16 hex head combination screws | M5x20 hex head combination screws | M5x25 hex head combination screws | M6x12 hex head combination screws | M6x16 hex head combination screws | M6x20 hex head combination screws | M6x25 hex head combination screws,40 | 40 | 20 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 5 | 5 | 5 | 5,Yes,60%,,Metric screw kit joins the machine screws,Done
 22,Tools,B17,B10,Blue painter's tape,1,,50%,,"Skipped: B17 had no blue painter's tape, just a piece of tape holding two metal pieces together; row removed",Skipped
-23,Tools,H10,B2,"Magnet pieces (broken, ceramic/ferrite style)",2,Yes,10%,Blades & magnets,"User named B2 ""Blades & magnets"" instead of misc & oddballs",Done
+23,Tools,H10,B2,"Magnet pieces (broken, ceramic/ferrite style)",2,Yes,10%,Misc & oddballs,B2 is the misc/oddball bin (acrylic strips + magnets),Done
 24,Screws & nails,C9,C10,"Hex washer head sheet metal screws (zinc) | Flat head self-drilling screws (zinc, Phillips) | Hex head screws (scattered)",~60 | ~25 | ~8,Yes,85%,,Into C10's two empty top compartments,
 25,Screws & nails,C12,F6,Rubber toggle-style hollow wall anchors,2,,75%,,,
 26,Screws & nails,C12,P4,Carriage bolts (zinc/stainless),~3,,60%,,,
