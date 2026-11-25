@@ -275,9 +275,7 @@ C,7,Self-drilling screw (loose),Fasteners,Self-drilling screws,1,Top-left
 C,7,Red wall anchor (plastic),Fasteners,Wall anchors,1,Top-left corner
 C,7,Yellow screw,Fasteners,Assorted screws,1,Bottom center; likely a yellow-zinc or coated wood screw
 C,8,Zinc washer-head (pocket hole style) screws,Fasteners,Pocket hole screws,~80,"Coarse thread, wide flat washer head; roughly 1-1.5"" long; likely pocket-hole screws"
-C,9,Hex washer head sheet metal screws (zinc),Fasteners,Sheet metal screws,~60,"Left side; slotted hex heads; roughly 3/4-1.25"" long; a few rusty"
-C,9,"Flat head self-drilling screws (zinc, Phillips)",Fasteners,Self-drilling screws,~25,"Right side; countersunk heads with drill points; 1-2"" long"
-C,9,Hex head screws (scattered),Fasteners,Assorted screws,~8,Loose in the middle of the bin
+C,10,"Flat head self-drilling screws (zinc, Phillips)",Fasteners,Self-drilling screws,~25,"Right side; countersunk heads with drill points; 1-2"" long; Moved from C9"
 C,10,Blue-tipped/dark pan head self-drilling screws,Fasteners,Self-drilling screws,~100,"Second row, far left; some with blue paint, some rusty"
 C,10,Small flat head screws (zinc),Fasteners,Assorted screws,~5,"Second row, left-middle; very few; short"
 C,10,Zinc flat head self-drilling screws (medium),Fasteners,Self-drilling screws,~200,"Second row, right-middle; Phillips"
@@ -465,6 +463,8 @@ E,16,Metal EMT compression connector (blue band),Electrical,Conduit fittings,1,R
 E,16,"Locknuts, steel",Electrical,Conduit fittings,~2,Top left; loose
 E,16,Southwire liquid-tight flexible conduit with metal connectors,Electrical,Flex & cable connectors,1,"Gray; about 18"" long; metal straight connectors on both ends; trade size not confirmed"
 E,17,"Ground clamps (water pipe/conduit), zinc/brass-plated",Electrical,Ground clamps,~60,Serrated-jaw pipe clamps with slotted screws; some with wire-lug holes; pipe sizes not confirmed; tangled together
+F,1,Hex washer head sheet metal screws (zinc),Fasteners,Sheet metal screws,~60,"Left side; slotted hex heads; roughly 3/4-1.25"" long; a few rusty; Moved from C9"
+F,1,Hex head screws (scattered),Fasteners,Assorted screws,~8,Loose in the middle of the bin; Moved from C9
 F,1,"Hex head sheet metal / self-tapping screws, zinc",Fasteners,Sheet metal screws,~30,"Scattered; mixed lengths about 1-2""; slotted hex washer heads"
 F,1,"Long flat head and wood screws, zinc",Fasteners,Wood screws,~8,"Right side; about 3-5"" long; coarse thread"
 F,1,"Hex head lag screw, zinc",Fasteners,Lag screws,1,"Right side; long, about 4-5"""

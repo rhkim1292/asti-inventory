@@ -35,26 +35,26 @@ Always `git pull` first, then commit and push after each update.
 <!-- progress:start -->
 _Last updated 2026-11-24 by consolidate.py. Do not edit this section by hand._
 
-- **Steps:** 18 done, 5 skipped, 54 to go (of 77)
-- **Bins emptied by consolidation:** 4 of 27 (A6, B3, B13, H10)
-- **Empty bins in the shop now:** 41 of 223
+- **Steps:** 20 done, 5 skipped, 52 to go (of 77)
+- **Bins emptied by consolidation:** 5 of 26 (A6, B3, B13, H10, C9)
+- **Empty bins in the shop now:** 42 of 223
 
 **Still to do, by group:**
 
-- Screws & nails: steps 24-41
+- Screws & nails: steps 25-27, 29-41
 - Bolts, nuts & anchors: steps 42-67
 - Electrical: steps 68-77
 
 **Next up:**
 
-- Step 24: C9 → C10: Hex washer head sheet metal screws (zinc); Flat head self-drilling ...
 - Step 25: C12 → F6: Rubber toggle-style hollow wall anchors
 - Step 26: C12 → P4: Carriage bolts (zinc/stainless)
 - Step 27: C14 → P11: Concrete/masonry screws with blue coating
-- Step 28: F1 → C10: Hex head sheet metal / self-tapping screws, zinc
 - Step 29: F1 → C14: Hex head lag screw, zinc
 - Step 30: F1 → I8: Long flat head and wood screws, zinc
 - Step 31: F1 → J3: Black screws; Screw with red washer
+- Step 32: F1 → O11: Metal cable staples/clips; White plastic cable clips with nails
+- Step 33: F4 → I8: Black drywall screws
 
 **Skipped:**
 
